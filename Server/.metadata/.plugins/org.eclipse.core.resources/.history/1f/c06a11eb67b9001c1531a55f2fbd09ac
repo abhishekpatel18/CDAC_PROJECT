@@ -1,0 +1,7 @@
+package com.cdac.controller;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public class OrderController implements JpaRepository<T, ID> {
+
+}
